@@ -1,3 +1,5 @@
+// to use console log as a component
+
 const ConsoleLog = ({ children }) => {
 	console.log(children);
 	return false;
